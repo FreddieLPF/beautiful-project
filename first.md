@@ -7,7 +7,7 @@ bigimg: /img/start.jpg
 
 ## Hey there:
 
-![GW Data Science logo](/img/gwdsp.png)
+![mountain](/img/2016-01-17 153446.jpg)
 
 ## How about a link?
 
